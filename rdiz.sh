@@ -83,10 +83,10 @@ clear
 echo "startIng tools... /";
 sleep 0.1;
 clear
-echo "SABAR MEMEK -";
+echo "SABAR CUK:V -";
 sleep 0.4;
 clear
-echo 'SABAR NJING!... \';
+echo 'SABAR NAPA:(!... \';
 sleep 1;
 clear
 echo 'starting Tools... -';
@@ -113,7 +113,7 @@ echo $pu" |" $me"["$pu" THANKS TO :"$me"]"$bi"[Allah Swt]"$pu"        |"
 echo $bi"[X]"$i "X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•X•"$bi"[X]"
 echo
 echo $pu"•"$bi"────────────────────"$pu"•"
-echo $i"|"$cy"   TERMUX TOOLS by IbudzNoob"  $i"    |"
+echo $i"|"$cy"TERMUX TOOLS by IbudzNoob"  $i"    |"
 echo $pu"•"$bi"────────────────────"$pu"•"
 echo $me"|"$pu"1"$me"|"$cy"["$cy"DarkFly""]"
 echo $me"|"$pu"2"$me"|"$cy"["$cy"DarkFBv6""]"
